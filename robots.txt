@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://nnokvd.ru
+
+# Sitemaps
+Sitemap: https://nnokvd.ru/sitemap.xml
